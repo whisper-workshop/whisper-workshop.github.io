@@ -19,7 +19,7 @@ Submissions are invited on all topics related to information hiding, watermarkin
 - Data-exfiltration attacks to AI models, including membership inference attacks and privacy leakages.
 
 **Submission Guidelines**
-Submissions must be written in English and provided in PDF format, adhering to the ITASEC conference template [EasyChair style]: (https://easychair.org/publications/for_authors). Manuscripts should at most 10 pages in length, excluding references.
+Submissions must be written in English and provided in PDF format, adhering to the ITASEC conference template [EasyChair style](https://easychair.org/publications/for_authors). Manuscripts should at most 10 pages in length, excluding references.
 
 We accept both previously published papers and original submissions presenting new ideas or preliminary results. 
 
