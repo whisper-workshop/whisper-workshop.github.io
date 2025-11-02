@@ -25,9 +25,7 @@ We accept both previously published papers and original submissions presenting n
 
 All submissions will undergo peer review by at least two members of the Program Committee.
 
-
 ### Important Dates
-
 - Paper Submission: 5 December 2025
 - Notification: 20 December 2025
 - Carmera-ready: 10 January 2026
