@@ -12,6 +12,7 @@ Artificial Intelligence (AI) systems are increasingly integrated into a wide ran
 In this context, the 1st Workshop on Hidden Information, Steganography, Privacy, and Emerging Risks (WHISPER 2025), co-located with ITASEC & SERICS, aims to bring together researchers and practitioners from both academia and industry to explore the intersection of AI, steganography, digital watermarking, and privacy. The workshop will focus on emerging risks, defensive and adversarial strategies, and the dual role of AI, as both a potential threat and a powerful safeguard, in the protection, tracing, and authentication of information.
 </p>
 
+<div style="text-align: justify;">
 **Topics of Interest**
 Submissions are invited on all topics related to information hiding, watermarking, and privacy in the era of AI, including but not limited to:
 - Watermarking schemes, usages, and challenges, including model and content watermarking for intellectual property protection.
@@ -34,3 +35,5 @@ All submissions will undergo peer review by at least two members of the Program 
 - Notification: 20 December 2025
 - Carmera-ready: 10 January 2026
 - Workshop: 09 February 2026
+
+</div>
