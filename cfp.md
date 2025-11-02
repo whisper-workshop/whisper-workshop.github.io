@@ -4,10 +4,12 @@ title: Call for Papers
 subtitle: 
 ---
 
+<div class="justify">
 Artificial Intelligence (AI) systems are increasingly integrated into a wide range of domains reshaping the landscape of information security. From synthetic content generation to intelligent system deployment, AI technologies now influence every layer of communication, data processing, and multimedia production. This evolution brings both opportunities and risks. On one hand, AI can enhance defenses by detecting hidden information, tracing content origins, and identifying covert channels; on the other hand, it can empower adversaries to design stealthier data-hiding methods, generate highly realistic steganographic media and optimize side-channel attacks. Moreover, even AI can be watermarked or targeted by data exfiltration attacks, being a fundamental asset for campanies.
-
+</div>
+<div class="justify">
 In this context, the 1st Workshop on Hidden Information, Steganography, Privacy, and Emerging Risks (WHISPER 2025), co-located with ITASEC & SERICS, aims to bring together researchers and practitioners from both academia and industry to explore the intersection of AI, steganography, digital watermarking, and privacy. The workshop will focus on emerging risks, defensive and adversarial strategies, and the dual role of AI, as both a potential threat and a powerful safeguard, in the protection, tracing, and authentication of information.
-
+</div>
 **Topics of Interest**
 Submissions are invited on all topics related to information hiding, watermarking, and privacy in the era of AI, including but not limited to:
 - Watermarking schemes, usages, and challenges, including model and content watermarking for intellectual property protection.

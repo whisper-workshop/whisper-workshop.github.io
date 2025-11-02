@@ -1125,3 +1125,6 @@ pre {
     display: inline-block;
   }
 }
+.justify {
+  text-align: justify;
+}
