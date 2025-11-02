@@ -24,3 +24,11 @@ Submissions must be written in English and provided in PDF format, adhering to t
 We accept both previously published papers and original submissions presenting new ideas or preliminary results. 
 
 All submissions will undergo peer review by at least two members of the Program Committee.
+
+
+### Important Dates
+
+- Paper Submission: 5 December 2025
+- Notification: 20 December 2025
+- Carmera-ready: 10 January 2026
+- Workshop: 09 February 2026
