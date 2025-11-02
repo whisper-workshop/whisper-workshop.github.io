@@ -51,7 +51,6 @@ body > main {
 p {
   line-height: 1.5;
   margin: 1.875rem 0;
-  text-align: justify;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: var(--header-font);
@@ -1124,7 +1123,4 @@ pre {
   #nav-search-text {
     display: inline-block;
   }
-}
-.justify {
-  text-align: justify;
 }
