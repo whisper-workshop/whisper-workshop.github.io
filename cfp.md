@@ -9,7 +9,7 @@ Artificial Intelligence (AI) systems are increasingly integrated into a wide ran
 </p>
 
 <p style="text-align: justify;">
-In this context, the 1st Workshop on Hidden Information, Steganography, Privacy, and Emerging Risks (WHISPER 2025), co-located with ITASEC & SERICS, aims to bring together researchers and practitioners from both academia and industry to explore the intersection of AI, steganography, digital watermarking, and privacy. The workshop will focus on emerging risks, defensive and adversarial strategies, and the dual role of AI, as both a potential threat and a powerful safeguard, in the protection, tracing, and authentication of information.
+In this context, the 1st Workshop on Hidden Information, Steganography, Privacy, and Emerging Risks (WHISPER 2026), co-located with ITASEC & SERICS, aims to bring together researchers and practitioners from both academia and industry to explore the intersection of AI, steganography, digital watermarking, and privacy. The workshop will focus on emerging risks, defensive and adversarial strategies, and the dual role of AI, as both a potential threat and a powerful safeguard, in the protection, tracing, and authentication of information.
 </p>
 
 **Topics of Interest**
