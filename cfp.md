@@ -32,7 +32,7 @@ All submissions will undergo peer review by at least two members of the Program 
 Submissions to WHISPER2026 are now open via [EasyChair](https://easychair.org/conferences?conf=whisper2026)
 
 ### Important Dates
-- Paper Submission: ~~5 December 2025~~ 12 December 2025
+- Paper Submission: ~~5 December 2025~~ 18 December 2025
 - Notification: 20 December 2025
 - Carmera-ready: 10 January 2026
 - Workshop: 09 February 2026
