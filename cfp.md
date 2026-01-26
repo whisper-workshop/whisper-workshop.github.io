@@ -24,8 +24,8 @@ Submissions are invited on all topics related to information hiding, watermarkin
 
 **Submission Guidelines**
 Submissions must be written in English and provided in PDF format, adhering to the ITASEC conference template [EasyChair style](https://easychair.org/publications/for_authors). Manuscripts should at most 10 pages in length, excluding references.
-We accept both previously published papers (for oral presentations) and original submissions presenting new ideas or preliminary results (for oral presentations and inclusion in the post-workshop CEUR proceedings). 
-Please note that the publication of CEUR proceedings will depend on the number of submissions.
+We accept both previously published papers (for oral presentations) and original submissions presenting new ideas or preliminary results (for oral presentations and inclusion in the post-workshop proceedings). 
+Please note that the publication of proceedings will depend on the number of submissions.
 
 All submissions will undergo peer review by at least two members of the Program Committee.
 
@@ -35,4 +35,4 @@ Submissions to WHISPER2026 are now open via [EasyChair](https://easychair.org/co
 - Paper Submission: ~~5 December 2025~~ 18 December 2025
 - Notification: 12 January 2026
 - Workshop: 09 February 2026
-- - Carmera-ready: 23 February 2026
+- Carmera-ready: 23 February 2026
