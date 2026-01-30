@@ -23,6 +23,7 @@ navbar-links:
   Home: "index"
   Call for Papers: "cfp"
   Organizers: "organizers"
+  Program: "program"
 
 ################
 # --- Logo --- #
