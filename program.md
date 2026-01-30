@@ -20,8 +20,6 @@ subtitle:
 Watermarking has a long and eventful history, punctuated by early enthusiasm, theoretical breakthroughs, and some disillusionments. In this talk, I will revisit nearly three decades of research on digital watermarking, drawing key lessons from the past and examining how they apply - or are being overlooked - in the context set by generative AI. As new applications emerge, from the detection of AI generated content to model attribution, we face the risk of repeating old mistakes and missing the actual challenges posed by the applications of watermarking in a generative AI setting. I argue that rather than reinventing the wheel, we must build on established knowledge, adapting and extending it to develop solutions suited to the challenges of watermarking AI-generated content. Through a series of practical examples and conceptual insights, I outline both promising directions to follow and some traps to avoid.
 </div>
 
-<br>
-
 <summary><strong>Bio</strong></summary>
 <div style="text-align: justify">
 Mauro Barni graduated in electronic engineering at the University of Florence in 1991. He received the PhD in informatics and telecommunications in October 1995. During the last two decades he has been studying the application of image processing techniques to copyright protection and authentication of multimedia, and the possibility of processing signals that have been previously encrypted without decrypting them. Lately he has been working on theoretical and practical aspects of adversarial signal processing with a particular focus on adversarial multimedia forensics.
