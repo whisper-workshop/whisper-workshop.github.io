@@ -20,6 +20,16 @@ subtitle:
 Watermarking has a long and eventful history, punctuated by early enthusiasm, theoretical breakthroughs, and some disillusionments. In this talk, I will revisit nearly three decades of research on digital watermarking, drawing key lessons from the past and examining how they apply - or are being overlooked - in the context set by generative AI. As new applications emerge, from the detection of AI generated content to model attribution, we face the risk of repeating old mistakes and missing the actual challenges posed by the applications of watermarking in a generative AI setting. I argue that rather than reinventing the wheel, we must build on established knowledge, adapting and extending it to develop solutions suited to the challenges of watermarking AI-generated content. Through a series of practical examples and conceptual insights, I outline both promising directions to follow and some traps to avoid.
 </div>
 
+<br>
+
+<summary><strong>Bio</strong></summary>
+<div style="text-align: justify">
+Mauro Barni graduated in electronic engineering at the University of Florence in 1991. He received the PhD in informatics and telecommunications in October 1995. During the last two decades he has been studying the application of image processing techniques to copyright protection and authentication of multimedia, and the possibility of processing signals that have been previously encrypted without decrypting them. Lately he has been working on theoretical and practical aspects of adversarial signal processing with a particular focus on adversarial multimedia forensics.
+He is author/co-author of about 350 papers published in international journals and conference proceedings, and holds five patents in the field of digital watermarking and image authentication. He is co-author of the book “Watermarking Systems Engineering: Enabling Digital Assets Security and other Applications”, published by Dekker Inc. in February 2004.
+He participated to several National and International research projects on diverse topics, including computer vision, multimedia signal processing, remote sensing, digital watermarking, multimedia forensics.
+He has been the Editor in Chief of the IEEE Transactions on Information Forensics and Security for the years 2015-2017. He was the funding editor of the EURASIP Journal on Information Security. He has been serving as associate editor of many journals including several IEEE Transactions. Prof. Barni has been the chairman of the IEEE Information Forensic and Security Technical Committee (IFS-TC) from 2010 to 2011. He was the technical program chair of ICASSP 2014. He was appointed DL of the IEEE SPS for the years 2013-2014. He is the recipient of the Individual Technical Achievement Award of EURASIP for 2016. He is a fellow member of the IEEE, AAIA, and EURASIP.
+</div>
+
 ---
 
 ## Schedule
