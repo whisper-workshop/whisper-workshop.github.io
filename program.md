@@ -5,7 +5,7 @@ subtitle:
 ---
 
 **Date:** February 9th <br>
-**Location:** University of Cagliari, Facoltà di Ingegneria e Architettura - Room: **TBD** <br>
+**Location:** University of Cagliari, Facoltà di Ingegneria e Architettura - Edificio I - Aula L <br>
 **Duration:** Half-day (2:30 PM – 5:30 PM)
 
 ---
